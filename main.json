@@ -1,0 +1,11 @@
+{
+	"career":{
+		"data" : " This is Career Objective box."
+	},
+	"education":[
+		{
+		"degree":"B.tech",
+		"college":"SVCET"
+	}
+	]
+}
